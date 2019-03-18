@@ -1,0 +1,669 @@
+18:34:55 1001 POS software initial connect to server.
+18:34:56 1003 Servo unable to find configuration for station. ( MAC:18-03-73-2F-04-AA )
+This probably a new station.
+18:35:04 1004 The configuration for new station s1 has been saved.
+18:35:04 9996 Station s1 has disconnected.
+18:35:08 1001 POS software initial connect to server.
+18:35:08 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+18:35:08 1005 Awakening stations over the LAN.
+18:35:21 9996 Station s1 has disconnected.
+18:35:27 1001 POS software initial connect to server.
+18:35:27 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+18:35:27 1005 Awakening stations over the LAN.
+18:36:43 9996 Station s1 has disconnected.
+18:47:36 1001 POS software initial connect to server.
+18:47:39 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+18:47:39 1005 Awakening stations over the LAN.
+18:49:01 9996 Station s1 has disconnected.
+18:49:04 1001 POS software initial connect to server.
+18:49:04 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+18:49:04 1005 Awakening stations over the LAN.
+18:49:34 9996 Station s1 has disconnected.
+18:49:43 1001 POS software initial connect to server.
+18:49:43 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+18:49:43 1005 Awakening stations over the LAN.
+18:49:53 9996 Station s1 has disconnected.
+18:49:58 1001 POS software initial connect to server.
+18:49:58 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+18:49:58 1005 Awakening stations over the LAN.
+18:50:37 9996 Station s1 has disconnected.
+00:00:21 1001 POS software initial connect to server.
+00:00:22 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+00:00:22 1005 Awakening stations over the LAN.
+00:01:08 9996 Station s1 has disconnected.
+00:01:14 1001 POS software initial connect to server.
+00:01:14 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+00:01:14 1005 Awakening stations over the LAN.
+00:01:30 9996 Station s1 has disconnected.
+07:52:48 1001 POS software initial connect to server.
+07:52:49 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+07:52:49 1005 Awakening stations over the LAN.
+07:53:17 9996 Station s1 has disconnected.
+08:06:16 1001 POS software initial connect to server.
+08:06:16 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+08:06:16 1005 Awakening stations over the LAN.
+08:07:18 9996 Station s1 has disconnected.
+08:13:36 1001 POS software initial connect to server.
+08:13:37 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+08:13:37 1005 Awakening stations over the LAN.
+08:13:43 9996 Station s1 has disconnected.
+08:15:42 1001 POS software initial connect to server.
+08:15:43 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+08:15:43 1005 Awakening stations over the LAN.
+08:16:29 9996 Station s1 has disconnected.
+08:21:06 1001 POS software initial connect to server.
+08:21:07 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+08:21:15 1200 Manager has accessed to station.
+08:21:15 1300 Broadcast ticket number 1 to all stations.
+08:22:41 1300 Broadcast ticket number 1 to all stations.
+08:22:51 1103 Operator manually lock the station.
+[Warning] record depreciated
+08:22:55 1200 Manager has accessed to station.
+08:22:55 1300 Broadcast ticket number 1 to all stations.
+08:25:29 1300 Broadcast ticket number 1 to all stations.
+08:25:46 1300 Broadcast ticket number 1 to all stations.
+08:26:23 1300 Broadcast ticket number 1 to all stations.
+08:26:26 1103 Operator manually lock the station.
+08:26:29 1200 Manager has accessed to station.
+08:26:29 1300 Broadcast ticket number 1 to all stations.
+08:26:35 1300 Broadcast ticket number 1 to all stations.
+08:26:51 1300 Broadcast ticket number 1 to all stations.
+08:26:53 1103 Operator manually lock the station.
+08:26:58 1200 Access Denied.The pin: (888) does not match any record.
+08:26:59 1200 Manager has accessed to station.
+08:26:59 1300 Broadcast ticket number 1 to all stations.
+08:27:03 1103 Operator manually lock the station.
+[Warning] record depreciated
+08:27:06 9996 Station s1 has disconnected.
+08:50:11 1001 POS software initial connect to server.
+08:50:12 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+08:50:12 1005 Awakening stations over the LAN.
+08:50:19 1200 Access Denied.The pin: (8) does not match any record.
+08:50:20 1200 Access Denied.The pin: (88) does not match any record.
+08:50:20 1200 Access Denied.The pin: (888) does not match any record.
+08:50:21 1200 Manager has accessed to station.
+08:50:21 1300 Broadcast ticket number 1 to all stations.
+08:50:29 1300 Broadcast ticket number 1 to all stations.
+08:50:46 1300 Broadcast ticket number 1 to all stations.
+08:50:47 1103 Operator manually lock the station.
+21:05:26 1200 Access Denied.The pin: (8) does not match any record.
+21:05:27 1200 Access Denied.The pin: (85) does not match any record.
+21:05:29 1200 Access Denied.The pin: (851) does not match any record.
+21:05:29 1200 Access Denied.The pin: (8511) does not match any record.
+21:05:31 1200 Access Denied.The pin: (8511) does not match any record.
+21:05:33 1200 Access Denied.The pin: (8) does not match any record.
+21:05:34 1200 Manager has accessed to station.
+21:05:34 1300 Broadcast ticket number 1 to all stations.
+21:05:39 1103 Operator manually lock the station.
+[Warning] record depreciated
+21:05:43 9996 Station s1 has disconnected.
+{ MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\server.js:336:35)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\connection\pool.js:280:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\connection\connection.js:187:49)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+  name: 'MongoError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]' }
+{ MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\server.js:336:35)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\connection\pool.js:280:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\connection\connection.js:187:49)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+  name: 'MongoError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]' }
+{ MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\server.js:336:35)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\connection\pool.js:280:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\connection\connection.js:187:49)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+  name: 'MongoError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]' }
+{ MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\server.js:336:35)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\connection\pool.js:280:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\connection\connection.js:187:49)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+  name: 'MongoError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]' }
+{ MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\server.js:336:35)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\connection\pool.js:280:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\connection\connection.js:187:49)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+  name: 'MongoError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]' }
+01:59:22 1001 POS software initial connect to server.
+01:59:23 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+01:59:23 1005 Awakening stations over the LAN.
+01:59:33 1004 The configuration for new station server has been saved.
+01:59:33 9996 Station server has disconnected.
+01:59:36 1001 POS software initial connect to server.
+01:59:37 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+01:59:37 1005 Awakening stations over the LAN.
+01:59:48 1004 The configuration for new station server has been saved.
+01:59:48 9996 Station server has disconnected.
+01:59:51 1001 POS software initial connect to server.
+01:59:51 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+01:59:51 1005 Awakening stations over the LAN.
+02:00:34 1004 The configuration for new station main has been saved.
+02:00:34 9996 Station main has disconnected.
+02:00:37 1001 POS software initial connect to server.
+02:00:37 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+02:00:37 1005 Awakening stations over the LAN.
+02:00:44 1200 Access Denied.The pin: (8) does not match any record.
+02:00:45 1200 Access Denied.The pin: (85) does not match any record.
+02:00:45 1200 Access Denied.The pin: (8511) does not match any record.
+02:00:46 1200 Access Denied.The pin: (8511) does not match any record.
+02:00:53 1200 Access Denied.The pin: (88) does not match any record.
+02:00:54 1200 Access Denied.The pin: (888) does not match any record.
+02:00:54 1200 Manager has accessed to station.
+02:00:54 1300 Broadcast ticket number 1 to all stations.
+02:01:15 1300 Broadcast ticket number 1 to all stations.
+02:01:23 1300 Broadcast ticket number 1 to all stations.
+03:03:01 9996 Station s1 has disconnected.
+{ MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\server.js:336:35)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\connection\pool.js:280:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\connection\connection.js:187:49)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+  name: 'MongoError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]' }
+23:07:23 1001 POS software initial connect to server.
+23:07:24 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+23:07:24 1005 Awakening stations over the LAN.
+23:07:30 1200 Access Denied.The pin: (88) does not match any record.
+23:07:31 1200 Access Denied.The pin: (888) does not match any record.
+23:07:31 1200 Manager has accessed to station.
+23:07:31 1300 Broadcast ticket number 1 to all stations.
+23:08:02 1300 Broadcast ticket number 1 to all stations.
+23:08:08 1103 Operator manually lock the station.
+23:08:13 1200 Manager has accessed to station.
+23:08:13 1300 Broadcast ticket number 1 to all stations.
+19:17:10 1300 Broadcast ticket number 1 to all stations.
+19:17:11 1300 Broadcast ticket number 1 to all stations.
+19:17:14 1103 Operator manually lock the station.
+19:17:18 1200 Manager has accessed to station.
+19:17:18 1300 Broadcast ticket number 1 to all stations.
+19:17:24 1103 Operator manually lock the station.
+[Warning] record depreciated
+19:17:29 9996 Station s1 has disconnected.
+{ MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\server.js:336:35)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\connection\pool.js:280:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\connection\connection.js:187:49)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+  name: 'MongoError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]' }
+20:46:44 1001 POS software initial connect to server.
+20:46:45 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+20:46:45 1005 Awakening stations over the LAN.
+20:46:50 1200 Access Denied.The pin: (85) does not match any record.
+20:46:51 1200 Access Denied.The pin: (8511) does not match any record.
+20:46:51 1200 Access Denied.The pin: (8511) does not match any record.
+20:46:55 1200 Manager has accessed to station.
+20:46:55 1300 Broadcast ticket number 1 to all stations.
+20:47:04 1103 Operator manually lock the station.
+20:47:08 1200 Access Denied.The pin: (who) does not match any record.
+20:47:09 1200 Access Denied.The pin: (whois) does not match any record.
+20:47:10 1200 Access Denied.The pin: (whoisyou) does not match any record.
+20:47:11 1200 Access Denied.The pin: (whoisyour) does not match any record.
+20:47:12 1200 Access Denied.The pin: (whoisyourda) does not match any record.
+20:47:12 1200 Access Denied.The pin: (whoisyourdad) does not match any record.
+20:47:13 6666 Access by developer pin
+20:47:13 1300 Broadcast ticket number 1 to all stations.
+20:48:11 1300 Broadcast ticket number 1 to all stations.
+20:48:17 1103 Operator manually lock the station.
+20:48:23 1200 Access Denied.The pin: (888) does not match any record.
+20:48:23 1200 Manager has accessed to station.
+20:48:23 1300 Broadcast ticket number 1 to all stations.
+20:48:31 1103 Operator manually lock the station.
+20:48:36 1200 Manager has accessed to station.
+20:48:36 1200 Manager has accessed to station.
+20:48:36 1300 Broadcast ticket number 1 to all stations.
+20:48:49 1103 Operator manually lock the station.
+[Warning] record depreciated
+20:48:52 9996 Station s1 has disconnected.
+07:34:54 1001 POS software initial connect to server.
+07:34:54 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+07:34:54 1005 Awakening stations over the LAN.
+07:34:58 1200 Manager has accessed to station.
+07:34:58 1300 Broadcast ticket number 1 to all stations.
+00:59:49 1300 Broadcast ticket number 1 to all stations.
+00:59:53 1103 Operator manually lock the station.
+[Warning] record depreciated
+00:59:57 9996 Station s1 has disconnected.
+22:13:26 1001 POS software initial connect to server.
+22:13:26 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+22:13:26 1005 Awakening stations over the LAN.
+22:13:31 1200 Manager has accessed to station.
+22:13:31 1300 Broadcast ticket number 1 to all stations.
+22:23:17 1300 Broadcast ticket number 1 to all stations.
+22:23:21 1103 Operator manually lock the station.
+[Warning] record depreciated
+22:23:29 1200 Access Denied.The pin: (wh) does not match any record.
+22:23:30 1200 Access Denied.The pin: (who) does not match any record.
+22:23:32 1200 Access Denied.The pin: (whois) does not match any record.
+22:23:33 1200 Access Denied.The pin: (whoisyour) does not match any record.
+22:23:34 1200 Access Denied.The pin: (whoisyourda) does not match any record.
+22:23:35 6666 Access by developer pin
+22:23:35 1300 Broadcast ticket number 1 to all stations.
+22:26:46 1300 Broadcast ticket number 1 to all stations.
+22:28:54 1300 Broadcast ticket number 1 to all stations.
+22:30:09 1300 Broadcast ticket number 1 to all stations.
+22:30:28 1103 Operator manually lock the station.
+[Warning] record depreciated
+22:30:34 9996 Station s1 has disconnected.
+09:43:59 1001 POS software initial connect to server.
+09:43:59 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+09:43:59 1005 Awakening stations over the LAN.
+09:46:33 9996 Station s1 has disconnected.
+09:46:39 1001 POS software initial connect to server.
+09:46:39 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+09:46:39 1005 Awakening stations over the LAN.
+09:47:05 1200 Manager has accessed to station.
+09:47:05 1300 Broadcast ticket number 1 to all stations.
+09:47:53 1300 Broadcast ticket number 1 to all stations.
+09:47:55 1103 Operator manually lock the station.
+09:47:59 1200 Access Denied.The pin: (8) does not match any record.
+09:47:59 1200 Access Denied.The pin: (85) does not match any record.
+09:48:00 1200 Access Denied.The pin: (8511) does not match any record.
+09:48:02 1200 Manager has accessed to station.
+09:48:02 1300 Broadcast ticket number 1 to all stations.
+09:48:11 1103 Operator manually lock the station.
+[Warning] record depreciated
+09:48:15 9996 Station s1 has disconnected.
+14:30:12 1001 POS software initial connect to server.
+14:30:12 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+14:30:12 1005 Awakening stations over the LAN.
+14:34:16 9996 Station s1 has disconnected.
+14:34:30 1001 POS software initial connect to server.
+14:34:30 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+14:34:30 1005 Awakening stations over the LAN.
+15:30:53 9996 Station s1 has disconnected.
+15:31:35 1001 POS software initial connect to server.
+15:31:35 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+15:31:35 1005 Awakening stations over the LAN.
+15:46:38 9996 Station s1 has disconnected.
+20:33:35 1001 POS software initial connect to server.
+20:33:36 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+20:33:36 1005 Awakening stations over the LAN.
+20:33:39 1200 Access Denied.The pin: (1) does not match any record.
+20:33:41 1200 Access Denied.The pin: (888) does not match any record.
+20:33:42 1200 Manager has accessed to station.
+20:33:42 1300 Broadcast ticket number 1 to all stations.
+20:34:03 6301 Update operator Manager setting
+20:34:06 1300 Broadcast ticket number 1 to all stations.
+20:34:09 1103 Operator manually lock the station.
+[Warning] record depreciated
+20:34:13 1200 Manager has accessed to station.
+20:34:13 1300 Broadcast ticket number 1 to all stations.
+20:35:44 1300 Broadcast ticket number 1 to all stations.
+20:36:06 1300 Broadcast ticket number 1 to all stations.
+20:41:30 1300 Broadcast ticket number 1 to all stations.
+20:43:26 1300 Broadcast ticket number 1 to all stations.
+20:49:09 1103 Operator manually lock the station.
+20:49:12 1200 Manager has accessed to station.
+20:49:12 1300 Broadcast ticket number 1 to all stations.
+20:49:16 1103 Operator manually lock the station.
+[Warning] record depreciated
+20:49:19 9996 Station s1 has disconnected.
+20:50:38 1001 POS software initial connect to server.
+20:50:38 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+20:50:38 1005 Awakening stations over the LAN.
+20:50:41 1200 Manager has accessed to station.
+20:50:41 1300 Broadcast ticket number 1 to all stations.
+20:50:56 9100 Access Denied when attempt access history.
+20:56:23 1300 Broadcast ticket number 1 to all stations.
+20:56:30 1103 Operator manually lock the station.
+[Warning] record depreciated
+20:56:32 9996 Station s1 has disconnected.
+10:04:02 1001 POS software initial connect to server.
+10:04:02 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+10:04:02 1005 Awakening stations over the LAN.
+10:04:07 9996 Station s1 has disconnected.
+14:20:36 1001 POS software initial connect to server.
+14:20:37 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+14:20:37 1005 Awakening stations over the LAN.
+14:40:59 1200 Access Denied.The pin: (85) does not match any record.
+14:41:00 1200 Access Denied.The pin: (8511) does not match any record.
+14:41:08 1200 Access Denied.The pin: (888) does not match any record.
+14:41:09 1200 Manager has accessed to station.
+14:41:09 1300 Broadcast ticket number 1 to all stations.
+14:41:11 1300 Broadcast ticket number 1 to all stations.
+14:41:11 4000 Initial create #1 invoice for Walk In.
+14:41:15 4001 #1 Invoice was abandoned.
+14:41:15 1300 Broadcast ticket number 1 to all stations.
+14:46:01 1300 Broadcast ticket number 1 to all stations.
+14:46:04 1300 Broadcast ticket number 1 to all stations.
+14:46:04 4000 Initial create #1 invoice for Walk In.
+14:46:10 1300 Broadcast ticket number 1 to all stations.
+14:46:11 4002 #1 invoice saved. Receipt is not print.
+14:46:23 1300 Broadcast ticket number 2 to all stations.
+14:46:29 1300 Broadcast ticket number 2 to all stations.
+14:46:33 1300 Broadcast ticket number 2 to all stations.
+14:46:35 1300 Broadcast ticket number 2 to all stations.
+14:46:35 4000 Initial create #2 invoice for Walk In.
+14:46:44 4002 #2 invoice saved. Receipt is printed.
+14:46:44 1300 Broadcast ticket number 3 to all stations.
+14:47:06 1201 Query operator profile via pin: 8888
+14:47:06 8001 Manager attempted to grant permission from Manager but neither has history permission.
+14:47:06 9100 Access Denied when attempt access history.
+14:47:13 1201 Query operator profile via pin: 8511
+14:47:13 9100 Access Denied when attempt access history.
+14:47:37 6301 Update operator Manager setting
+14:47:39 1300 Broadcast ticket number 3 to all stations.
+14:47:40 1300 Broadcast ticket number 3 to all stations.
+14:47:40 4000 Initial create #3 invoice for Walk In.
+14:47:42 4001 #3 Invoice was abandoned.
+14:47:42 1300 Broadcast ticket number 3 to all stations.
+14:47:45 1201 Query operator profile via pin: 1234
+14:47:45 9100 Access Denied when attempt access history.
+14:48:02 6301 Update operator Manager setting
+14:48:09 6301 Update operator Manager setting
+14:48:13 1300 Broadcast ticket number 3 to all stations.
+14:48:17 1201 Query operator profile via pin: 8888
+14:48:17 8001 Manager attempted to grant permission from Manager but neither has history permission.
+14:48:17 9100 Access Denied when attempt access history.
+14:48:57 6300 Add new operator: Manager2
+14:49:02 1300 Broadcast ticket number 3 to all stations.
+14:49:06 1201 Query operator profile via pin: 8511
+14:49:06 8000 Manager has inherited history permission from Manager2
+14:49:34 9009 Failed to pay bill.
+
+Error message:
+{"title":"dialog.cashDrawerUnavailable","msg":"dialog.cashDrawerUnavailableTip","buttons":[{"text":"button.confirm","fn":"resolve"}]}
+14:49:41 9009 Failed to pay bill.
+
+Error message:
+{"title":"dialog.cashDrawerUnavailable","msg":"dialog.cashDrawerUnavailableTip","buttons":[{"text":"button.confirm","fn":"resolve"}]}
+14:49:48 1300 Broadcast ticket number 3 to all stations.
+14:50:19 1300 Broadcast ticket number 3 to all stations.
+14:50:29 1201 Query operator profile via pin: 8511
+14:50:29 8000 Manager has inherited history permission from Manager2
+14:50:33 7300 Save order settlement detail
+14:50:33 7101 Update exist invoice #2
+14:50:47 7300 Save order settlement detail
+14:50:47 7101 Update exist invoice #1
+14:50:52 1300 Broadcast ticket number 3 to all stations.
+01:30:11 9996 Station s1 has disconnected.
+{ MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\topologies\server.js:336:35)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\connection\pool.js:280:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (c:\deverlop\server\node_modules\mongodb\node_modules\mongodb-core\lib\connection\connection.js:187:49)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+  name: 'MongoError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]' }
+00:50:08 1001 POS software initial connect to server.
+00:50:09 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+00:50:15 1200 Access Denied.The pin: (85) does not match any record.
+00:50:16 1200 Manager2 has accessed to station.
+00:50:16 1300 Broadcast ticket number 1 to all stations.
+00:50:27 1300 Broadcast ticket number 1 to all stations.
+00:50:39 1300 Broadcast ticket number 1 to all stations.
+00:50:51 1300 Broadcast ticket number 1 to all stations.
+00:51:42 1103 Operator manually lock the station.
+[Warning] record depreciated
+00:51:46 9996 Station s1 has disconnected.
+22:07:04 1001 POS software initial connect to server.
+22:07:04 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+22:07:12 1200 Access Denied.The pin: (85) does not match any record.
+22:07:13 1200 Manager2 has accessed to station.
+22:07:13 1300 Broadcast ticket number 1 to all stations.
+22:07:39 1300 Broadcast ticket number 1 to all stations.
+22:07:57 1300 Broadcast ticket number 1 to all stations.
+22:08:53 1300 Broadcast ticket number 1 to all stations.
+22:09:03 1103 Operator manually lock the station.
+[Warning] record depreciated
+22:09:15 9996 Station s1 has disconnected.
+15:40:10 1001 POS software initial connect to server.
+15:40:10 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+15:40:21 1200 Access Denied.The pin: (8) does not match any record.
+15:40:22 1200 Access Denied.The pin: (85) does not match any record.
+15:40:23 1200 Access Denied.The pin: (851) does not match any record.
+15:40:23 1200 Manager2 has accessed to station.
+15:40:23 1300 Broadcast ticket number 1 to all stations.
+15:41:10 1300 Broadcast ticket number 1 to all stations.
+15:41:25 1300 Broadcast ticket number 1 to all stations.
+15:41:38 1300 Broadcast ticket number 1 to all stations.
+15:41:48 1103 Operator manually lock the station.
+15:41:53 1200 Access Denied.The pin: (8) does not match any record.
+15:41:54 1200 Access Denied.The pin: (85) does not match any record.
+15:41:55 1200 Manager2 has accessed to station.
+15:41:55 1300 Broadcast ticket number 1 to all stations.
+15:42:06 1103 Operator manually lock the station.
+[Warning] record depreciated
+15:42:09 9996 Station s1 has disconnected.
+23:32:14 1001 POS software initial connect to server.
+23:32:15 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+23:32:23 1200 Access Denied.The pin: (85) does not match any record.
+23:32:24 1200 Manager2 has accessed to station.
+23:32:24 1300 Broadcast ticket number 1 to all stations.
+23:32:36 1300 Broadcast ticket number 1 to all stations.
+23:32:41 1103 Operator manually lock the station.
+[Warning] record depreciated
+23:32:44 9996 Station s1 has disconnected.
+18:30:24 1001 POS software initial connect to server.
+18:30:26 1003 Servo unable to find configuration for station. ( MAC:50-AF-73-2A-9D-C2 )
+This probably a new station.
+18:30:43 1004 The configuration for new station server has been saved.
+18:30:43 9996 Station server has disconnected.
+18:30:48 1001 POS software initial connect to server.
+18:30:49 1002 Servo returns station configuration for MAC: 50-AF-73-2A-9D-C2.
+18:30:53 9996 Station server has disconnected.
+18:32:25 1001 POS software initial connect to server.
+18:32:27 1002 Servo returns station configuration for MAC: 50-AF-73-2A-9D-C2.
+18:33:59 9996 Station server has disconnected.
+18:52:06 1001 POS software initial connect to server.
+18:52:07 1002 Servo returns station configuration for MAC: 50-AF-73-2A-9D-C2.
+18:52:15 9996 Station server has disconnected.
+22:18:40 1001 POS software initial connect to server.
+22:18:41 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+22:19:04 1200 Access Denied.The pin: (85) does not match any record.
+22:19:04 1200 Manager2 has accessed to station.
+22:19:05 1300 Broadcast ticket number 1 to all stations.
+22:19:18 1300 Broadcast ticket number 1 to all stations.
+22:19:26 1103 Operator manually lock the station.
+[Warning] record depreciated
+22:19:29 9996 Station s1 has disconnected.
+17:04:27 1001 POS software initial connect to server.
+17:04:28 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+17:04:34 1200 Access Denied.The pin: (8) does not match any record.
+17:04:34 1200 Access Denied.The pin: (85) does not match any record.
+17:04:35 1200 Manager2 has accessed to station.
+17:04:35 1300 Broadcast ticket number 1 to all stations.
+17:04:54 1300 Broadcast ticket number 1 to all stations.
+17:05:12 1300 Broadcast ticket number 1 to all stations.
+17:05:21 1300 Broadcast ticket number 1 to all stations.
+17:05:28 1300 Broadcast ticket number 1 to all stations.
+17:05:43 1300 Broadcast ticket number 1 to all stations.
+17:05:47 1300 Broadcast ticket number 1 to all stations.
+17:05:53 1103 Operator manually lock the station.
+[Warning] record depreciated
+17:05:56 9996 Station s1 has disconnected.
+22:48:11 1001 POS software initial connect to server.
+22:48:12 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+22:48:12 1005 Awakening stations over the LAN.
+22:48:14 1200 Access Denied.The pin: (8) does not match any record.
+22:48:15 1200 Access Denied.The pin: (85) does not match any record.
+22:48:16 1200 Manager2 has accessed to station.
+22:48:16 1300 Broadcast ticket number 1 to all stations.
+22:48:26 1300 Broadcast ticket number 1 to all stations.
+22:48:37 1300 Broadcast ticket number 1 to all stations.
+22:48:37 4000 Initial create #1 invoice for Walk In.
+22:50:40 4001 #1 Invoice was abandoned.
+22:50:40 1300 Broadcast ticket number 1 to all stations.
+22:50:52 1300 Broadcast ticket number 1 to all stations.
+22:51:00 1300 Broadcast ticket number 1 to all stations.
+22:51:13 1300 Broadcast ticket number 1 to all stations.
+22:51:16 1300 Broadcast ticket number 1 to all stations.
+22:51:16 4000 Initial create #1 invoice for Walk In.
+22:51:21 1300 Broadcast ticket number 1 to all stations.
+22:51:21 4002 #1 invoice saved. Receipt is printed.
+22:51:39 1300 Broadcast ticket number 2 to all stations.
+22:51:49 1300 Broadcast ticket number 2 to all stations.
+22:52:02 1103 Operator manually lock the station.
+[Warning] record depreciated
+22:52:04 9996 Station s1 has disconnected.
+17:57:39 1001 POS software initial connect to server.
+17:57:40 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+17:57:40 1005 Awakening stations over the LAN.
+17:57:43 1200 Access Denied.The pin: (8) does not match any record.
+17:57:43 1200 Access Denied.The pin: (85) does not match any record.
+17:57:44 1200 Manager2 has accessed to station.
+17:57:44 1300 Broadcast ticket number 1 to all stations.
+17:57:56 1300 Broadcast ticket number 1 to all stations.
+17:58:05 1300 Broadcast ticket number 1 to all stations.
+17:58:05 4000 Initial create #1 invoice for Walk In.
+17:58:17 4001 #1 Invoice was abandoned.
+17:58:17 1300 Broadcast ticket number 1 to all stations.
+17:58:45 1300 Broadcast ticket number 1 to all stations.
+17:58:51 1103 Operator manually lock the station.
+[Warning] record depreciated
+17:58:55 9996 Station s1 has disconnected.
+17:59:00 1001 POS software initial connect to server.
+17:59:00 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+17:59:00 1005 Awakening stations over the LAN.
+17:59:03 1200 Access Denied.The pin: (8) does not match any record.
+17:59:03 1200 Access Denied.The pin: (85) does not match any record.
+17:59:05 1200 Manager2 has accessed to station.
+17:59:05 1300 Broadcast ticket number 1 to all stations.
+18:34:49 1300 Broadcast ticket number 1 to all stations.
+18:35:02 1300 Broadcast ticket number 1 to all stations.
+18:35:12 1103 Operator manually lock the station.
+[Warning] record depreciated
+18:35:15 9996 Station s1 has disconnected.
+18:37:01 1001 POS software initial connect to server.
+18:37:02 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+18:37:19 1200 Access Denied.The pin: (8) does not match any record.
+18:37:19 1200 Access Denied.The pin: (85) does not match any record.
+18:37:20 1200 Manager2 has accessed to station.
+18:37:20 1300 Broadcast ticket number 1 to all stations.
+18:37:28 1300 Broadcast ticket number 1 to all stations.
+18:37:32 1300 Broadcast ticket number 1 to all stations.
+18:37:33 1300 Broadcast ticket number 1 to all stations.
+18:37:33 4000 Initial create #1 invoice for Walk In.
+18:37:35 4001 #1 Invoice was abandoned.
+18:37:35 1300 Broadcast ticket number 1 to all stations.
+18:38:18 1300 Broadcast ticket number 1 to all stations.
+18:38:24 1300 Broadcast ticket number 1 to all stations.
+18:38:32 1300 Broadcast ticket number 1 to all stations.
+18:38:36 1300 Broadcast ticket number 1 to all stations.
+18:39:44 1300 Broadcast ticket number 1 to all stations.
+18:39:45 1103 Operator manually lock the station.
+18:39:47 1200 Access Denied.The pin: (8) does not match any record.
+18:39:48 1200 Access Denied.The pin: (85) does not match any record.
+18:39:49 1200 Manager2 has accessed to station.
+18:39:49 1300 Broadcast ticket number 1 to all stations.
+18:40:25 1300 Broadcast ticket number 1 to all stations.
+18:41:03 1300 Broadcast ticket number 1 to all stations.
+18:41:05 1103 Operator manually lock the station.
+18:41:09 1200 Access Denied.The pin: (8) does not match any record.
+18:41:09 1200 Access Denied.The pin: (85) does not match any record.
+18:41:10 1200 Manager2 has accessed to station.
+18:41:10 1300 Broadcast ticket number 1 to all stations.
+18:41:18 1103 Operator manually lock the station.
+[Warning] record depreciated
+18:41:25 9996 Station s1 has disconnected.
+20:55:32 1001 POS software initial connect to server.
+20:57:32 9996 Station undefined has disconnected.
+21:05:01 1001 POS software initial connect to server.
+21:05:02 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+21:05:09 1200 Access Denied.The pin: (8) does not match any record.
+21:05:10 1200 Access Denied.The pin: (85) does not match any record.
+21:05:11 1200 Manager2 has accessed to station.
+21:05:11 1300 Broadcast ticket number 1 to all stations.
+21:06:03 1300 Broadcast ticket number 1 to all stations.
+21:06:16 1300 Broadcast ticket number 1 to all stations.
+21:06:18 1300 Broadcast ticket number 1 to all stations.
+21:06:19 4000 Initial create #1 invoice for Walk In.
+21:06:20 4001 #1 Invoice was abandoned.
+21:06:20 1300 Broadcast ticket number 1 to all stations.
+21:06:23 1300 Broadcast ticket number 1 to all stations.
+21:06:28 1300 Broadcast ticket number 1 to all stations.
+21:06:33 1300 Broadcast ticket number 1 to all stations.
+21:06:41 1103 Operator manually lock the station.
+21:06:43 1200 Access Denied.The pin: (8) does not match any record.
+21:06:43 1200 Access Denied.The pin: (85) does not match any record.
+21:06:44 1200 Manager2 has accessed to station.
+21:06:44 1300 Broadcast ticket number 1 to all stations.
+21:08:33 1300 Broadcast ticket number 1 to all stations.
+21:08:34 1103 Operator manually lock the station.
+21:08:36 1200 Access Denied.The pin: (8) does not match any record.
+21:08:37 1200 Access Denied.The pin: (85) does not match any record.
+21:08:38 1200 Manager2 has accessed to station.
+21:08:38 1300 Broadcast ticket number 1 to all stations.
+21:08:40 1103 Operator manually lock the station.
+21:08:42 1200 Access Denied.The pin: (8) does not match any record.
+21:08:42 1200 Access Denied.The pin: (85) does not match any record.
+21:08:43 1200 Manager2 has accessed to station.
+21:08:43 1300 Broadcast ticket number 1 to all stations.
+21:08:49 1103 Operator manually lock the station.
+[Warning] record depreciated
+21:08:53 9996 Station s1 has disconnected.
+23:08:31 1001 POS software initial connect to server.
+23:08:31 1002 Servo returns station configuration for MAC: 18-03-73-2F-04-AA.
+23:08:34 1200 Access Denied.The pin: (8) does not match any record.
+23:08:34 1200 Access Denied.The pin: (85) does not match any record.
+23:08:35 1200 Manager2 has accessed to station.
+23:08:35 1300 Broadcast ticket number 1 to all stations.
+23:08:52 1300 Broadcast ticket number 1 to all stations.
+23:09:07 1300 Broadcast ticket number 1 to all stations.
+23:09:10 1300 Broadcast ticket number 1 to all stations.
+23:09:11 1300 Broadcast ticket number 1 to all stations.
+23:09:12 4000 Initial create #1 invoice for Walk In.
+23:09:23 4002 #1 invoice saved. Receipt is printed.
+23:09:23 1300 Broadcast ticket number 2 to all stations.
+23:09:31 7101 Update exist invoice #1
+23:09:33 1300 Broadcast ticket number 2 to all stations.
+23:09:55 1300 Broadcast ticket number 2 to all stations.
+23:10:01 1103 Operator manually lock the station.
+[Warning] record depreciated
+23:10:04 9996 Station s1 has disconnected.
